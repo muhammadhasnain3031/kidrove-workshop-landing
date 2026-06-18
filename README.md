@@ -59,7 +59,8 @@ npm start
 Easiest way to deploy:
 
 👉 Vercel
-https://vercel.com/new
+[https://vercel.com/new](https://kidrove-workshop-landing.vercel.app/)
+
 
 Steps:
 
